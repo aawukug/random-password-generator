@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    color: white;
+}
+
+.container {
+    width: 550px;
+    height: 550px;
+    padding: 20px;
+    margin: 100px auto;
+}
+
+p {
+    color: #D5D4D8;
+    font-size: large;
+}
+
+hr {
+    width: 474px;
+    border: 1px solid #2F3E53;
+    margin: 20px 200px 20px 0;
+}
+
+#cta {
+    color: #10B981;
+}
+
+button {
+    padding: 10px 20px;
+    color: white;
+    background-color: #10B981;
+    border: none;
+    border-radius: 4px;
+    margin: 20px 0;
+
+}
+
+input {
+    width: 211px;
+    padding: 5px 10px;
+    background-color: #273549;
+    color: #10B981;
+    border: none;
+    height: 35px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.input-container {
+ 
+    margin: 30px 0;
+}
+
+.second-input {
+    margin-left: 50px;
+}
+
+
